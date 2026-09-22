@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-An interactive Power BI dashboard developed to analyze Amazon clothing sales data and identify trends in sales performance, customer behavior, pricing, product ratings, and delivery patterns.
+An interactive Power BI dashboard developed to analyze sales data and identify trends in performance, customer behavior, pricing, product ratings, and delivery patterns.
 
 ## 🎯 Project Objective
 
@@ -36,7 +36,7 @@ The Power BI dashboard presents interactive visuals and KPIs that allow users to
 
 ### Dashboard Preview
 
-![Power BI Sales Analytics Dashboard](Dashboard.png) 
+![Power BI Sales Analytics Dashboard](./Dashboard.png)
 
 ## 🔍 Key Insights
 
@@ -44,11 +44,13 @@ The analysis identifies patterns in sales, customer behavior, pricing, ratings, 
 
 ## 📁 Repository Contents
 
-- `.pbix` — Power BI project files
-- * 📊 **[Download Power BI Model (Cafe_Data.pbix)](./Cafe_Data.pbix)**
-- `.csv` — Source dataset
-- `README.md` — Project documentation
-- `Dashboard.png` — Dashboard screenshot
+* 📊 **[Cafe Data Power BI Model (Cafe_Data.pbix)](./Cafe_Data.pbix)**
+* 📊 **[Import Excel File Model (Import%20Excel%20File.pbix)](./Import%20Excel%20File.pbix)**
+* 📊 **[Import Folder Model (Import%20folder.pbix)](./Import%20folder.pbix)**
+* 📊 **[Import Web File Model (import%20File%20from%20Web.pbix)](./import%20File%20from%20Web.pbix)**
+* 📄 **[Cafe Sales Raw Dataset (Cafe_Sales.csv)](./Cafe_Sales.csv)**
+* 🖼️ **[Dashboard Preview Image (Dashboard.png)](./Dashboard.png)**
+* 📋 **[Project Documentation (README.md)](./README.md)**
 
 ## 💡 Skills Demonstrated
 
@@ -67,11 +69,5 @@ Developed a practical Power BI analytics project demonstrating the complete proc
 
 ## 👤 Author
 
-**Faiqa Anwar**
-
+**Faiqa Anwar**  
 PMP | Data Analyst | Project Management
-
-
-
-
-
